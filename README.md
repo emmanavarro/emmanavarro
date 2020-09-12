@@ -8,7 +8,7 @@
 <!-- GitHub Stats -->
 
 <br>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanavarro&hide=stars&show_icons=true&theme=vue" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanavarro&hide=stars&show_icons=true&theme=vue" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanavarro&layout=compact&theme=vue" /></p>
 
 
