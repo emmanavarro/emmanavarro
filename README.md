@@ -18,3 +18,7 @@
 <p align="center">You can find me in
 <a href="https://twitter.com/ayy_emma" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ayy_emma" height="30" width="30" /></a> or in <a href="https://linkedin.com/in/emmanavarromillan" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emmanavarromillan" height="30" width="30" /></a>
 </p>
+
+<!-- Contador de visitas -->
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=emmanavarro&color=brightgreen" alt="emmanavarro" /></p>
