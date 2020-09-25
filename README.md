@@ -21,4 +21,4 @@
 
 <!-- Contador de visitas -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=emmanavarro&color=brightgreen" alt="emmanavarro" /></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=emmanavarro&color=brightgreen&style=plastic" alt="emmanavarro" /></p>
