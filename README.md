@@ -1,7 +1,7 @@
 <!-- Intro -->
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
 
-<h3 align="center">I'm Emma Navarro, developer in progress and currently a student at Holberton School 👩🏽‍💻.</h3>
+<h3 align="center">I'm Emma Navarro, developer and currently a student at Holberton School 👩🏽‍💻.</h3>
 <br>
 <h4 align="center">⚡ Fun facts: I'm also an Environmental Manager 💚 and I love outdoors 🏕️.</h4>
 
